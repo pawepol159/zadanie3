@@ -1,0 +1,108 @@
+[33mcommit e0685342cd832e57a218c84769c6a34ebecce57c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Paweł Polok <pawepol159@student.polsl.pl>
+Date:   Wed Oct 7 11:51:38 2020 +0200
+
+    Zmiana6
+     Changes to be committed:
+
+[1mdiff --git a/Pawel.txt b/Pawel.txt[m
+[1mindex 1cc47a2..9328dc2 100644[m
+[1m--- a/Pawel.txt[m
+[1m+++ b/Pawel.txt[m
+[36m@@ -1,4 +1,4 @@[m
+[31m-zmiana[m
+[32m+[m[32mzmiana zmiana6[m
+ zmiana2 [m
+ zmiana2.1[m
+ zmiana3[m
+[1mdiff --git a/Pawel3.txt b/Pawel3.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit e4b71715b7b8cd79efb19409b67cbb72a11acacb[m
+Author: Paweł Polok <pawepol159@student.polsl.pl>
+Date:   Wed Oct 7 11:48:01 2020 +0200
+
+    Pawel2.txt
+
+[1mdiff --git a/Pawel2.txt b/Pawel2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit 1b5f98707992020ae64f1b280e631b774a912074[m
+Author: Paweł Polok <pawepol159@student.polsl.pl>
+Date:   Wed Oct 7 11:44:40 2020 +0200
+
+    Zmiana5
+     Changes to be committed:
+
+[1mdiff --git a/Pawel.txt b/Pawel.txt[m
+[1mindex ba53253..1cc47a2 100644[m
+[1m--- a/Pawel.txt[m
+[1m+++ b/Pawel.txt[m
+[36m@@ -3,3 +3,4 @@[m [mzmiana2[m
+ zmiana2.1[m
+ zmiana3[m
+ zmiana4[m
+[32m+[m[32mzmiana5[m
+
+[33mcommit f2d2560ebe50837723da1eee9a939bb7ec35ee20[m
+Author: Paweł Polok <pawepol159@student.polsl.pl>
+Date:   Wed Oct 7 11:44:06 2020 +0200
+
+    zmiana4
+
+[1mdiff --git a/Pawel.txt b/Pawel.txt[m
+[1mindex 5fdb959..ba53253 100644[m
+[1m--- a/Pawel.txt[m
+[1m+++ b/Pawel.txt[m
+[36m@@ -2,4 +2,4 @@[m [mzmiana[m
+ zmiana2 [m
+ zmiana2.1[m
+ zmiana3[m
+[31m-[m
+[32m+[m[32mzmiana4[m
+
+[33mcommit 05e6a1d8f602824c17a888044b5193f043ed562c[m
+Author: Paweł Polok <pawepol159@student.polsl.pl>
+Date:   Wed Oct 7 11:39:29 2020 +0200
+
+     Changes to be committed:
+
+[1mdiff --git a/Pawel.txt b/Pawel.txt[m
+[1mindex 0693431..5fdb959 100644[m
+[1m--- a/Pawel.txt[m
+[1m+++ b/Pawel.txt[m
+[36m@@ -1,2 +1,5 @@[m
+ zmiana[m
+[31m-zmiana2[m
+[32m+[m[32mzmiana2[m[41m [m
+[32m+[m[32mzmiana2.1[m
+[32m+[m[32mzmiana3[m
+[41m+[m
+
+[33mcommit b68d854beef3414a2a730924b57b5d578127767d[m
+Author: Paweł Polok <pawepol159@student.polsl.pl>
+Date:   Wed Oct 7 11:35:33 2020 +0200
+
+     Changes to be committed:
+     Changes not staged for commit:
+
+[1mdiff --git a/Pawel.txt b/Pawel.txt[m
+[1mindex e69de29..0693431 100644[m
+[1m--- a/Pawel.txt[m
+[1m+++ b/Pawel.txt[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32mzmiana[m
+[32m+[m[32mzmiana2[m
+
+[33mcommit 96dfd36c6a1ad866b51d193c84dd79ab32e74429[m
+Author: Paweł Polok <pawepol159@student.polsl.pl>
+Date:   Wed Oct 7 11:30:05 2020 +0200
+
+     Changes to be committed:
+     Changes not staged for commit:
+
+[1mdiff --git a/Pawel.txt b/Pawel.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m

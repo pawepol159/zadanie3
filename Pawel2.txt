@@ -1,4 +1,5 @@
 zmiana1
+zmiana2
 
 Naprawa
 oraz
